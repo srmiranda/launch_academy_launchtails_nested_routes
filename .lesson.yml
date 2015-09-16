@@ -1,0 +1,8 @@
+---
+title: "Launchtails - Nested Routes"
+type: "challenge"
+description: "View drinks within a given category and add some moderation features"
+visibility: "assign"
+tags: "rails, nested-routes"
+ignore:
+  - "launchtails-nested-routes.md"
